@@ -1,0 +1,26 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#c4c9e8",
+        "activityBar.activeBorder": "#1a1d02",
+        "activityBar.background": "#c4c9e8",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#c97581",
+        "activityBarBadge.foreground": "#15202b",
+        "sash.hoverBorder": "#c4c9e8",
+        "statusBar.background": "#9fa8da",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#7a87cc",
+        "statusBarItem.remoteBackground": "#9fa8da",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#9fa8da",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#9fa8da99",
+        "titleBar.inactiveForeground": "#15202b99",
+        "commandCenter.border": "#15202b99"
+    },
+    "peacock.remoteColor": "#9fa8da",
+    "intelephense.environment.phpVersion": "8.4.0",
+    "intelephense.completion.fullyQualifyGlobalConstantsAndFunctions": true,
+    "intelephense.phpdoc.useFullyQualifiedNames": true
+}
